@@ -8,7 +8,7 @@ import threading
 import subprocess
 
 # --- Configuration ---
-bot = telebot.TeleBot('8169047989:AAERCpYlyUYXnsLUWccF0ZloEXAxpH0wj6Q')
+bot = telebot.TeleBot('7740838092:AAEu0uSZq8Y6SrkfWj7no8egC81c0aiIHbU')
 
 # Admin user IDs
 admin_id = {"6942423757"}  # Replace with actual admin ID
